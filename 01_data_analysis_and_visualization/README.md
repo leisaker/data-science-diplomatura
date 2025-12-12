@@ -1,9 +1,10 @@
-Overview
+**Overview**
 
 This folder contains the practical assignments and notebooks developed for the course Data Analysis and Visualization. The course covers statistical foundations, principles of scientific communication, and techniques for effectively exploring and presenting quantitative information.
 
-Topics Covered
-📊 Statistical Foundations
+**Topics Covered**
+
+📊 **Statistical Foundations**
 
 - Basic frequentist concepts
 
@@ -23,7 +24,7 @@ Topics Covered
 
 - Principles of reproducible research
 
-📈 Data Visualization Principles
+📈 **Data Visualization Principles**
 
 - Human vision and perception fundamentals
 
