@@ -5,34 +5,34 @@ This folder contains the practical assignments and notebooks developed for the c
 Topics Covered
 📊 Statistical Foundations
 
-Basic frequentist concepts
+- Basic frequentist concepts
 
-Conditional probability
+- Conditional probability
 
-Bayes’ rule
+- Bayes’ rule
 
-Independence and conditional independence
+- Independence and conditional independence
 
-Law of large numbers
+- Law of large numbers
 
-Maximum likelihood estimators
+- Maximum likelihood estimators
 
-Point and interval estimators
+- Point and interval estimators
 
-Hypothesis testing and statistical significance
+- Hypothesis testing and statistical significance
 
-Principles of reproducible research
+- Principles of reproducible research
 
 📈 Data Visualization Principles
 
-Human vision and perception fundamentals
+- Human vision and perception fundamentals
 
-How to use graphics to present quantitative information
+- How to use graphics to present quantitative information
 
-Contingency tables and bar charts
+- Contingency tables and bar charts
 
-Histograms and representations for categorical & continuous variables
+- Histograms and representations for categorical & continuous variables
 
-Visualization of multivariate data
+- Visualization of multivariate data
 
-Use of animation, sound, and other modalities to communicate information
+- Use of animation, sound, and other modalities to communicate information
