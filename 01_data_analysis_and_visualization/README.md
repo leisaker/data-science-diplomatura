@@ -1,39 +1,41 @@
-**Overview**
+# 01 — Data Analysis and Visualization
 
-This folder contains the practical assignments and notebooks developed for the course Data Analysis and Visualization. The course covers statistical foundations, principles of scientific communication, and techniques for effectively exploring and presenting quantitative information.
+## Overview
 
-**Topics Covered**
+This folder contains the two practical assignments submitted and approved for the **Data Analysis and Visualization** course.  
+These projects focus on applying statistical foundations and data visualization principles to explore datasets, validate assumptions, and communicate results through reproducible data analysis workflows.
 
-📊 **Statistical Foundations**
+The emphasis is on using statistical reasoning to support data-driven decisions, from exploratory analysis to hypothesis testing and uncertainty quantification.
 
-- Basic frequentist concepts
+## Skills and Topics Covered
 
-- Conditional probability
+### 📊 Statistical Foundations
+- Basic frequentist concepts  
+- Conditional probability and Bayes’ rule  
+- Independence and conditional independence  
+- Law of large numbers  
+- Maximum likelihood estimation  
+- Point and interval estimation  
+- Hypothesis testing and statistical significance  
+- Reproducible research principles  
 
-- Bayes’ rule
+### 📈 Data Analysis & Visualization
+- Exploratory Data Analysis (EDA)  
+- Principles of effective data visualization  
+- Contingency tables and bar charts  
+- Histograms for categorical and continuous variables  
+- Multivariate data visualization  
+- Use of animation and alternative modalities for scientific communication  
 
-- Independence and conditional independence
+## Tools & Techniques
 
-- Law of large numbers
+- Python (pandas, numpy, matplotlib/seaborn)  
+- Jupyter Notebooks  
+- Reproducible analysis workflows  
 
-- Maximum likelihood estimators
+## Contents
 
-- Point and interval estimators
-
-- Hypothesis testing and statistical significance
-
-- Principles of reproducible research
-
-📈 **Data Visualization Principles**
-
-- Human vision and perception fundamentals
-
-- How to use graphics to present quantitative information
-
-- Contingency tables and bar charts
-
-- Histograms and representations for categorical & continuous variables
-
-- Visualization of multivariate data
-
-- Use of animation, sound, and other modalities to communicate information
+This folder includes:
+- Two complete practical assignments developed as part of the course  
+- Jupyter notebooks with step-by-step analyses  
+- Visualizations aimed at clearly communicating insights from data  
