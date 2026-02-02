@@ -35,6 +35,10 @@ The emphasis is on building end-to-end supervised learning workflows, including 
 
 ## Contents
 
-This folder includes:
-- Two complete practical assignments developed as part of the course
+This folder includes two complete practical assignments developed as part of the course: 
 
+- **Practical 1 — Regression Models for California House Prices:**  
+  Explored the California House Prices dataset through visual analysis and descriptive statistics, performed manual feature selection based on data exploration, and trained and evaluated different regression models. Compared model performance using appropriate metrics and searched for configurations that achieved the best predictive results.
+
+- **Practical 2 — End-to-End Classification Pipeline with scikit-learn:**  
+  Developed a complete supervised learning workflow on a classification dataset (loan_data.csv), including model selection, hyperparameter tuning, and performance evaluation. Used tools provided by scikit-learn to train, validate, and compare models, following a structured approach to building and assessing machine learning solutions.
