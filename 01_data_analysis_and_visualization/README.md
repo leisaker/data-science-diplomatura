@@ -35,7 +35,10 @@ The emphasis is on using statistical reasoning to support data-driven decisions,
 
 ## Contents
 
-This folder includes:
-- Two complete practical assignments developed as part of the course  
-- Jupyter notebooks with step-by-step analyses  
-- Visualizations aimed at clearly communicating insights from data  
+This folder includes two complete practical assignments developed as part of the course:
+
+- **Practical 1 — Exploratory Analysis of the Sysarmy Survey (Argentina):**  
+  Performed an exploratory data analysis of the 2025 Sysarmy survey (Argentina subset), describing the dataset from multiple perspectives using visualizations and descriptive statistics, exploring relationships between variables, and formulating questions and hypotheses to guide the analysis.
+
+- **Practical 2 — Statistical Inference on Salary and Working Conditions Data:**  
+  Focused on distinguishing data from statistical models by performing inferential analysis, including parameter estimation and hypothesis testing, and communicating results clearly based on the Sysarmy survey data.
