@@ -45,11 +45,8 @@ root/
 │
 ├── mentorship_project/
 │
-├── electives/
-│   ├── elective_01/
-│   ├── elective_02/
-│   └── elective_03/
-│
+├── op2_distributed_programming_big_data/
+├── OP7 — Image Processing/
 └── README.md
 ```
 
