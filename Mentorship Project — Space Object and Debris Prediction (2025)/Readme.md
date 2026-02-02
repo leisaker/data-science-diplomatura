@@ -68,6 +68,4 @@ The raw data is sourced from:
 
 ## Contents
 
-This folder contains the notebooks and materials corresponding to the different stages of the mentorship project, including analysis, modeling, and results.
-
-Only the student project work is included in this repository.
+This folder contains the notebook and materials corresponding to the different stages of the mentorship project, including analysis, modeling, and results.
