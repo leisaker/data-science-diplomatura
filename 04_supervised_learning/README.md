@@ -1,62 +1,57 @@
-**OVERVIEW**
+# 04 — Supervised Learning
 
-This repository contains the Jupyter notebooks and exercises completed for the Machine Learning course, taken as part of the Data Science Diploma Program. The notebooks cover the key concepts and practical implementations explored during the course.
+## Overview
 
-📘 **Main Topics Covered**
-- Introduction and Review of Supervised Models
+This folder contains the notebook completed for the **Supervised Learning** course, part of the Data Science Diploma Program.  
+The materials focus on the practical implementation of a wide range of supervised machine learning models, as well as on best practices for building, evaluating, and maintaining reliable and reproducible machine learning solutions.
 
-- Introduction to Machine Learning.
+The emphasis is on understanding the full machine learning workflow, from data preprocessing and model selection to evaluation, reproducibility, and ethical considerations.
 
-- Key stages in the ML workflow.
+## Skills and Topics Covered
 
-- Review of classical models:
+### 🤖 Introduction and Review of Supervised Models
+- Introduction to machine learning and the ML workflow  
+- Review of classical models:  
+  - Linear and polynomial regression  
+  - Logistic regression  
+  - Perceptron  
+- Introduction to Support Vector Machines (SVM)  
 
---> Linear and Polynomial Regression
+### 🧠 Support Vector Machines, Neural Networks, and Naive Bayes
+- Support Vector Machines (SVM) for classification and regression  
+- Non-linearly separable data and feature space transformations  
+- Cost functions, hard and soft margins  
+- Multi-Layer Perceptrons (MLP)  
+- Naive Bayes classifier  
 
---> Logistic Regression
+### 🌳 Decision Trees and Ensemble Methods
+- Decision trees for classification and regression  
+- Ensemble learning methods:  
+  - Random Forest  
+  - Bagging  
+  - Boosting  
+  - Voting  
 
-- erceptron
+### ⭐ Recommender Systems and Best Practices
+- Recommender systems  
+- Collaborative filtering (user-based and item-based)  
+- Best practices in machine learning:  
+  - Data preprocessing and data quality  
+  - Model selection and proper evaluation  
+  - Overfitting, regularization, and bias  
+  - Reproducibility and ethical considerations  
 
-- Introduction to Support Vector Machines (SVM)
+## Tools & Techniques
 
-- Support Vector Machines, Neural Networks, and Naive Bayes
+- Python (numpy, pandas, scikit-learn)  
+- Jupyter Notebooks  
+- Supervised learning workflows  
+- Model evaluation, validation, and comparison  
 
-- Support Vector Machines (SVM) for classification and regression.
+## Contents
 
-- Non-linearly separable data — feature space tricks.
+This folder includes the Jupyter notebook implementing and comparing different supervised learning models: 
 
-- Cost function, hard and soft margins.
+- ** Practical: This course included a single integrative practical assignment implemented as a Kaggle-style competition. The task was to build and evaluate machine learning models to predict diabetes (positive/negative) using a dataset combining medical and demographic patient information.
 
-- Multi-Layer Perceptrons (MLP).
-
-- Naive Bayes classifier.
-
-- Decision Trees and Ensemble Methods
-
-- Review of Decision Trees for classification and regression.
-
-- Ensemble learning:
-
---> Random Forest
-
---> Bagging
-
---> Boosting
-
---> Voting
-
-- Recommender Systems and Best Practices
-
---> Recommender systems.
-
---> Collaborative filtering (user-based and item-based).
-
-- "Best practices" in Machine Learning:
-
---> Data preprocessing and data quality
-
---> Model selection and proper evaluation
-
---> Overfitting, regularization, and bias
-
-- Reproducibility and ethical considerations
+The dataset includes features such as age, sex, body mass index (BMI), hypertension, heart disease, smoking history, HbA1c level, and blood glucose level. The goal was to develop a complete supervised learning pipeline, including data preprocessing, feature engineering, model selection, hyperparameter tuning, and performance evaluation, and to compare results in a competitive setting.
